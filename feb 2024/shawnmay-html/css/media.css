@@ -1,0 +1,446 @@
+@media only screen and (max-width: 768px){
+
+	.container {
+    width: 100%;
+	}
+.headerlogo {
+    text-align: center;
+}
+.headerlogo img {
+        width: 150px;
+    margin: 13px;
+}
+.nav {
+    text-align: center;
+	    float: none;
+}
+.inne-section {
+  margin-top: 50px;
+    text-align: center;
+}
+.nav ul {
+    margin: 15px;
+}
+.nav ul li {
+       padding: 10px;
+}
+.nav ul li a {
+    font-size: 10px;
+}
+  .banner-section{
+	  width: 100%;
+        height: auto;
+}
+.inne-section h1{
+	    font-size: 20px;
+    line-height: 28px;
+    width: 40%;
+}
+.inne-section p {
+           margin-top: 0px;
+    font-size: 10px;
+    width: 28%;
+}
+.inne-section a.button {
+    font-size:  10px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    padding: 10px 15px 10px 15px;
+}
+.location-section h1 {
+   margin-top: 42px;
+    padding-bottom: 0px;
+    font-size: 23px;;
+}
+.states .location img {
+        width: 70%;
+    height: 238px;
+}
+.states .location{
+       width: 47%;
+    margin: 10px;
+    min-height: 367px;
+}
+.states .location a.button {
+    padding: 10px;
+    font-size: 13px;
+}
+.states {
+   margin-top: 30px;
+}
+.portfolio-section h2 {
+   margin-top: 12px;
+    padding-top: 60px;
+    font-size: 29px;
+}
+.portfolio {
+    margin-top: 60px;
+}
+.portfolio-section {
+  height: 1264px;
+}
+.portfolio-button a.button {
+    padding: 15px 20px 15px 20px;
+}
+.portfolio-box {
+            width: 43%;
+}
+h4.portfolio-heading {
+    width: 89%;
+}
+.portfolio-button {
+margin: 30px;
+}
+.our-clients h3 {
+    font-size: 30px;
+    margin-top: 34px;
+}
+.client-testimonial {
+    margin-top: 37px;
+}
+.client-testimonial .client {
+       width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 38px;
+	    margin-left: 35px;
+}
+.client-testimonial h3 {
+       font-size: 23px;
+    padding-top: 50px;
+}
+.testimonial {
+    width: 38%;
+    margin: 10px;
+}
+.footer {
+    padding: 0px 0px 30px 0px;
+}
+.footer-logo {
+    margin: 50px 0px 0px 0px;
+}
+
+
+.contact-banner {
+    height: 274px;
+}
+.form {
+    margin-left: 20px;
+}
+.inne-section1 h1 {
+    margin-top: -80px;
+	    font-size: 45px;
+    line-height: 0px;
+}
+.ourteam-banner {
+    height: 280px;
+}
+.inne-section2 {
+    margin-top: 98px;
+}
+.inne-section2 h1 {
+    line-height: 50px;
+    font-size: 35px;
+}
+.team-members .members {
+    width: 39%;
+    margin: 20px;
+}
+.logos {
+    margin-top: 35px;
+}
+.logos1 {
+    margin-top: 530px;
+}
+.about a {
+    padding: 0px
+ {
+    flex-wrap: wrap;
+}
+.photographer2 {
+    width: 43%;
+    margin: 20px;
+}
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+	.container {
+    width: 100%;
+	}
+.headerlogo {
+    text-align: center;
+	    float: none;
+}
+.nav {
+    text-align: center;
+	    float: none;
+}
+.inne-section {
+    margin-top: 80px;
+    text-align: center;
+}
+	.nav ul li:last-child {
+    border: none;
+}
+.nav ul li {
+    list-style: none;
+    padding: 12px;
+    border-bottom: 1px solid #fff;
+}
+.nav ul {
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+}
+.banner-section {
+    width: 100%;
+    height: 100%;
+}
+.inne-section h1 {
+    font-size: 25px;
+    line-height: 35px;
+    width: 100%;
+    
+}
+.inne-section1 h1 {
+    margin-top: -103px;
+    font-size: 29px;
+}
+.inne-section2 {
+    margin-top: 60px;
+}
+.inne-section2 h1 {
+    line-height: 45px;
+    font-size: 26px;
+}
+.inne-section p {
+        font-size: 15px;
+    width: 88%;
+    margin-top: 6px;
+}
+  .inne-section a.button {
+   padding: 10px 20px;
+    margin: 12px 0px 19px 0px;
+}
+  .location-section h1 {
+    font-size: 25px;
+       margin-top: 42px;
+  
+}
+ .states .location {
+    margin: 10px auto;
+   width: 85%;
+margin-top: 10px; 
+ min-height: 355px;
+}
+ .states .location a.button {
+    padding: 10px 10px 10px 10px;
+}
+.states .location img {
+    width: 70%;
+    height: 204px;
+}
+.portfolio-section {
+    min-height: 100%;
+}
+.portfolio-section h2 {
+    padding-top: 37px;
+    margin-top: 17px;
+    font-size: 25px;
+}
+.portfolio {
+    margin-top: 32px;
+	    display: inline-block;
+}
+.portfolio-box {
+    width: 90%;
+}
+h4.portfolio-heading {
+    width: 88%;
+    margin: -4px;
+	height: 40px;
+padding: 20px 20px 20px 20px;
+}
+.portfolio-section {
+    height: auto;
+}
+.portfolio-button a.button {
+    font-size: 15px;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 20px;
+    display: inline-block;
+
+}
+.portfolio-button {
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+}
+
+.our-clients {
+    min-height: 100%;
+}
+.our-clients  h3 {
+    font-size: 27px;
+    margin-top: 30px;
+}
+ .clients ul {
+    display: flex;
+       text-align: center;
+    width: 100%;
+	margin-left: 6px;
+	padding:0px;
+}
+.clients ul li{
+	    border: 1px dotted #eee;
+}
+.client-testimonial {
+    min-height: auto;
+}
+.client-testimonial h3 {
+    font-size: 20px;
+    padding-top: 30px;
+}
+.testimonial {
+    padding: 15px 15px 15px 15px;
+	width: 70%;
+}
+.footer {
+    padding: 1px;
+	margin-top: 35px;
+}
+.social-links ul li {
+    list-style: none;
+    display: inline;
+    padding: 0px;
+}
+.footer-menu {
+    display: inline-block;
+}.inner-footer {
+    
+    width: 100%;
+    
+}
+.footer-menu ul li a{
+    margin-top: 10px;
+}
+.footer-logo {
+    margin: 30px 0px 30px 0px;
+}
+.social-links ul li a{
+    margin-bottom: 16px;
+}
+.contact-banner {
+    width: 100%;
+	height:200px;
+}
+
+.contact-section {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+.logo img {
+    margin: -30px 0px 0px 0px;
+}
+.form {
+    display: inline-block;
+    width: 90%;
+}
+.form input[type="text"] {
+    margin: 5px;
+    height: 30px;
+    padding: 0px 0px 10px 9px;
+    width: 95%;
+    font-size: 16px;
+}
+textarea.form-text {
+    width: 96%;
+    height: 70px;
+    font-size: 12px;
+    margin: 7px 7px;
+}
+a.form-button {
+    font-size: 18px;
+    width: 95%;
+    line-height: 46px;
+    margin: 5px 0px 15px 10px;
+}
+.call-log {
+    width: 100%;
+    margin-top: 3px;
+   
+}
+.whatsapp {
+    width: 82%;
+    margin: 10px;
+    padding: 10px 9px 10px 6px;
+    font-size: 17px;
+}
+h2.call-name {
+    font-size: 20px;
+        margin: 47px 0px 0px 41px;
+}
+
+
+.content-link i {
+    margin-right: 0px;
+    font-size: 16px;
+}
+.content-link a{
+    padding: 0px 68px;
+    margin: 0px -17px;
+	font-size: 15px;
+}
+.content-link p {
+    margin: 10px;
+    padding: 0px;
+}
+.container {
+    width: 100%;
+}
+  .ourteam-banner {
+    width: 100%;
+    height: 250px;
+}
+.logos h3 {
+	    font-size: 16px;
+  margin-top: 14px;
+}
+  .logos img {
+    width: 49px;
+    margin: 0px 0px -13px;
+}
+  .our-members {
+        width: 100%;
+    height: 400px;
+}
+.team-members {
+    display: inline-block;
+    width: 100%;
+    margin: 0px auto;
+}
+.team-members .members {
+    width: 80%;
+   margin: 30px auto;
+   padding-right: 4px;
+}
+.photographer {
+    width: 100%;
+    margin-top: 943px;
+}
+.photographer1 {
+    width: 100%;
+    display: inline-block;
+	    margin-top: 14px;
+}
+.photographer2 {
+    width: 90%;
+    margin: 10px;
+}
+ .about a {
+	 font-size: 15px;
+ }
+}

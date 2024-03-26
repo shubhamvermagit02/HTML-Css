@@ -1,0 +1,102 @@
+@media only screen and (max-width: 768px){
+
+	.container {
+    width: 100%;
+	}
+.headerlogo {
+    text-align: center;
+}
+.headerlogo img {
+        width: 150px;
+    margin: 13px;
+}
+.nav {
+    text-align: center;
+	    float: none;
+}
+.inne-section {
+    margin-top: 30px;
+    text-align: center;
+}
+.nav ul li {
+    padding: 4px;
+}
+.nav ul li a {
+    font-size: 10px;
+}
+  .banner-section{
+	  width: 100%;
+        height: auto;
+}
+.inne-section h1{
+	font-size: 20px;
+    line-height: 30px;
+}
+.inne-section p {
+        margin-top: 0px;
+    font-size: 10px;
+}
+.inne-section a.button {
+    font-size: 8px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    padding: 10px 15px 10px 15px;
+}
+.location-section h1 {
+   margin-top: 42px;
+    padding-bottom: 0px;
+    font-size: 23px;;
+}
+.location img {
+    height: 259px;
+}
+.states .location{
+        width: 100%;
+    margin: 25px;
+}
+.portfolio-section h2 {
+   margin-top: 12px;
+    padding-top: 33px;
+    font-size: 26px;
+}
+.portfolio {
+    margin-top: 0px;
+}
+.portfolio-section {
+    height: 100%;
+}
+.portfolio-box {
+        width: 93%;
+    margin: 10px auto;
+}
+h4.portfolio-heading {
+    width: 89%;
+}
+.portfolio-button {
+margin: 30px;
+}
+.our-clients h3 {
+    font-size: 30px;
+    margin-top: 34px;
+}
+.client-testimonial {
+    margin-top: -27px;
+}
+.client-testimonial .client {
+    width: 100%;
+    text-align: left;
+}
+.client-testimonial h3 {
+        font-size: 20px;
+    padding-top: 30px;
+}
+.testimonial {
+    width: 82%;
+}
+.footer {
+    padding: 0px 0px 30px 0px;
+}
+.footer-logo {
+    margin: 50px 0px 0px 0px;
+}
+}
